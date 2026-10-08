@@ -44,6 +44,8 @@
 </p>
 <!-- AWAKEN:END -->
 
+<div align="center">
+
 ### Tech Stack
 
 **Languages**
@@ -124,6 +126,8 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-261230?style=for-the-badge&logoColor=white)
+
+</div>
 
 ### Active Quests
 
