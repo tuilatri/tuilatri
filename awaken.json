@@ -6,6 +6,10 @@
     "hunter",
     "ladder",
     "banner",
+    "bio",
+    "career",
+    "web",
+    "oracle",
     "achievements",
     "activity"
   ],
@@ -41,6 +45,12 @@
       "org": "IU — VNUHCM",
       "years": "2022–2026",
       "current": true
+    }
+  ],
+  "quotes": [
+    {
+      "text": "I don't review AI code. I just wipe and hope.",
+      "author": "Hà Minh Trí"
     }
   ],
   "socials": [
