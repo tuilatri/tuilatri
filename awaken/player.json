@@ -2,7 +2,7 @@
   "login": "tuilatri",
   "level": 8,
   "overall": "B",
-  "overallPercentile": 0.8395016247846201,
+  "overallPercentile": 0.8413295352531235,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 291,
+      "value": 298,
       "rank": "A",
-      "percentile": 0.8738644311817322
+      "percentile": 0.8770178600897578
     },
     {
       "code": "AGI",
-      "value": 55,
+      "value": 58,
       "rank": "S",
-      "percentile": 0.965088732917081
+      "percentile": 0.9675183794235953
     },
     {
       "code": "INT",
@@ -68,22 +68,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 55
+      "value": 58
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 54
+      "value": 57
     },
     {
       "id": "yolo",
       "tier": 3,
-      "value": 55
+      "value": 58
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 291
+      "value": 298
     },
     {
       "id": "unbroken",
@@ -92,8 +92,8 @@
     },
     {
       "id": "night-owl",
-      "tier": 2,
-      "value": 31
+      "tier": 1,
+      "value": 26
     },
     {
       "id": "early-bird",
@@ -103,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 0,
-      "value": 13
+      "value": 12
     },
     {
       "id": "gate-opener",
@@ -153,7 +153,7 @@
     {
       "id": "berserker",
       "tier": 1,
-      "value": 17
+      "value": 27
     },
     {
       "id": "diligent",
@@ -210,5 +210,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-10-08T11:23:33.164Z"
+  "syncedAt": "2026-10-08T12:18:41.440Z"
 }
