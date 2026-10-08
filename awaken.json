@@ -3,8 +3,8 @@
   "layout": "custom",
   "widgets": [
     "contacts",
-    "banner",
     "hunter",
+    "banner",
     "ladder",
     "achievements",
     "activity"
