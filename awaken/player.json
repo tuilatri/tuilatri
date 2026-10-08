@@ -2,7 +2,7 @@
   "login": "tuilatri",
   "level": 8,
   "overall": "B",
-  "overallPercentile": 0.8385501101016547,
+  "overallPercentile": 0.8389151049575276,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -19,9 +19,9 @@
     },
     {
       "code": "AGI",
-      "value": 54,
+      "value": 55,
       "rank": "S",
-      "percentile": 0.9642189809600699
+      "percentile": 0.965088732917081
     },
     {
       "code": "INT",
@@ -68,17 +68,17 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 54
+      "value": 55
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 53
+      "value": 54
     },
     {
       "id": "yolo",
       "tier": 3,
-      "value": 54
+      "value": 55
     },
     {
       "id": "relentless",
@@ -93,7 +93,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 36
+      "value": 34
     },
     {
       "id": "early-bird",
@@ -153,7 +153,7 @@
     {
       "id": "berserker",
       "tier": 1,
-      "value": 10
+      "value": 11
     },
     {
       "id": "diligent",
@@ -210,5 +210,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-10-08T09:40:13.602Z"
+  "syncedAt": "2026-10-08T09:42:10.009Z"
 }

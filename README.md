@@ -18,11 +18,11 @@
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/banner-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/banner-light.svg"><img src="awaken/banner-dark.svg" width="100%" alt="tuilatri: system banner"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/ladder-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/ladder-light.svg"><img src="awaken/ladder-dark.svg" width="100%" alt="tuilatri: rank ladder"></picture>
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/ladder-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/ladder-light.svg"><img src="awaken/ladder-dark.svg" width="100%" alt="tuilatri: rank ladder"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/banner-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/banner-light.svg"><img src="awaken/banner-dark.svg" width="100%" alt="tuilatri: system banner"></picture>
 </p>
 
 <p align="center">
