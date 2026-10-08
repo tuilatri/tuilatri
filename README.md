@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/banner-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/banner-light.svg"><img src="awaken/banner-dark.svg" width="100%" alt="tuilatri: system banner"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/hunter-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/hunter-light.svg"><img src="awaken/hunter-dark.svg" width="100%" alt="tuilatri: hunter license"></picture>
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/hunter-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/hunter-light.svg"><img src="awaken/hunter-dark.svg" width="100%" alt="tuilatri: hunter license"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/banner-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/banner-light.svg"><img src="awaken/banner-dark.svg" width="100%" alt="tuilatri: system banner"></picture>
 </p>
 
 <p align="center">
