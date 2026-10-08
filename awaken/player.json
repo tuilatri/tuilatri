@@ -2,8 +2,8 @@
   "login": "tuilatri",
   "level": 8,
   "overall": "B",
-  "overallPercentile": 0.8375802302608006,
-  "layout": "default",
+  "overallPercentile": 0.8376809202172427,
+  "layout": "custom",
   "class": {
     "name": "Grand Magus",
     "element": "Arcane",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 279,
+      "value": 280,
       "rank": "B",
-      "percentile": 0.8681423775426279
+      "percentile": 0.8686352736005682
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 279
+      "value": 280
     },
     {
       "id": "unbroken",
@@ -78,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 44
+      "value": 43
     },
     {
       "id": "early-bird",
@@ -195,5 +195,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-10-08T07:08:18.592Z"
+  "syncedAt": "2026-10-08T07:35:27.379Z"
 }
