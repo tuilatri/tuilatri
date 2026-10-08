@@ -2,7 +2,7 @@
   "login": "tuilatri",
   "level": 8,
   "overall": "B",
-  "overallPercentile": 0.837881237508601,
+  "overallPercentile": 0.8385501101016547,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 282,
-      "rank": "B",
-      "percentile": 0.8696120772098767
+      "value": 285,
+      "rank": "A",
+      "percentile": 0.8710552003617771
     },
     {
       "code": "AGI",
-      "value": 53,
+      "value": 54,
       "rank": "S",
-      "percentile": 0.9633167633052487
+      "percentile": 0.9642189809600699
     },
     {
       "code": "INT",
@@ -48,27 +48,42 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "stat",
+      "subject": "STR",
+      "from": "B",
+      "to": "A",
+      "at": "2026-10-08T09:40:13.602Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "berserker",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-08T09:40:13.602Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 53
+      "value": 54
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 52
+      "value": 53
     },
     {
       "id": "yolo",
       "tier": 3,
-      "value": 53
+      "value": 54
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 282
+      "value": 285
     },
     {
       "id": "unbroken",
@@ -78,7 +93,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 40
+      "value": 36
     },
     {
       "id": "early-bird",
@@ -88,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 0,
-      "value": 14
+      "value": 13
     },
     {
       "id": "gate-opener",
@@ -137,8 +152,8 @@
     },
     {
       "id": "berserker",
-      "tier": 0,
-      "value": 8
+      "tier": 1,
+      "value": 10
     },
     {
       "id": "diligent",
@@ -195,5 +210,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-10-08T08:28:09.992Z"
+  "syncedAt": "2026-10-08T09:40:13.602Z"
 }

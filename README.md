@@ -32,10 +32,6 @@
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/activity-light.svg"><img src="awaken/activity-dark.svg" width="100%" alt="tuilatri: shadow extraction"></picture>
 </p>
-
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/arsenal-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/arsenal-light.svg"><img src="awaken/arsenal-dark.svg" width="100%" alt="tuilatri: arsenal"></picture>
-</p>
 <!-- AWAKEN:END -->
 
 ### Tech Stack
