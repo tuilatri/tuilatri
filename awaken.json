@@ -7,8 +7,7 @@
     "hunter",
     "ladder",
     "achievements",
-    "activity",
-    "arsenal"
+    "activity"
   ],
   "theme": "solo_leveling",
   "title": "auto",
@@ -31,32 +30,6 @@
     "location": "Ho Chi Minh City, Vietnam",
     "about": "Graduating CS student at IU — VNUHCM. I build production systems: a marketplace with 12 recommendation models, an AI realtime kanban board, and OCR tooling for Vietnamese legal documents."
   },
-  "arsenal": [
-    "Python",
-    "TypeScript",
-    "JavaScript",
-    "C++",
-    "React",
-    "Next.js",
-    "Vite",
-    "Tailwind CSS",
-    "Framer Motion",
-    "shadcn/ui",
-    "Radix UI",
-    "FastAPI",
-    "Express",
-    "Node.js",
-    "Socket.IO",
-    "PostgreSQL",
-    "Redis",
-    "Prisma",
-    "SQLAlchemy",
-    "PyTorch",
-    "Hugging Face",
-    "Docker",
-    "Vercel",
-    "AWS"
-  ],
   "career": [
     {
       "role": "Cloud Trainee",
