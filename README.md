@@ -46,9 +46,17 @@
 
 <div align="center">
 
-### Tech Stack
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="header/sec-title-tech-stack-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="header/sec-title-tech-stack-light.svg">
+<img src="header/sec-title-tech-stack-dark.svg" alt="Tech Stack">
+</picture>
 
-**Languages**
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="header/sec-label-languages-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="header/sec-label-languages-light.svg">
+<img src="header/sec-label-languages-dark.svg" alt="Languages">
+</picture>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -58,7 +66,11 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logoColor=white)
 
-**Frontend**
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="header/sec-label-frontend-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="header/sec-label-frontend-light.svg">
+<img src="header/sec-label-frontend-dark.svg" alt="Frontend">
+</picture>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -72,7 +84,11 @@
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 
-**Backend**
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="header/sec-label-backend-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="header/sec-label-backend-light.svg">
+<img src="header/sec-label-backend-dark.svg" alt="Backend">
+</picture>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -81,7 +97,11 @@
 ![REST API](https://img.shields.io/badge/REST_API-6BA539?style=for-the-badge&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logoColor=white)
 
-**AI / ML**
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="header/sec-label-ai-ml-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="header/sec-label-ai-ml-light.svg">
+<img src="header/sec-label-ai-ml-dark.svg" alt="AI / ML">
+</picture>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -94,7 +114,11 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-**Data**
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="header/sec-label-data-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="header/sec-label-data-light.svg">
+<img src="header/sec-label-data-dark.svg" alt="Data">
+</picture>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logoColor=white)
@@ -105,14 +129,22 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![RQ](https://img.shields.io/badge/RQ-3F3F46?style=for-the-badge&logoColor=white)
 
-**Cloud & DevOps**
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="header/sec-label-cloud-devops-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="header/sec-label-cloud-devops-light.svg">
+<img src="header/sec-label-cloud-devops-dark.svg" alt="Cloud & DevOps">
+</picture>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-ED8B00?style=for-the-badge&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Testing**
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="header/sec-label-testing-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="header/sec-label-testing-light.svg">
+<img src="header/sec-label-testing-dark.svg" alt="Testing">
+</picture>
 
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-8DC149?style=for-the-badge&logoColor=black)
@@ -120,7 +152,11 @@
 ![Supertest](https://img.shields.io/badge/Supertest-333333?style=for-the-badge&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white)
 
-**Tools**
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="header/sec-label-tools-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="header/sec-label-tools-light.svg">
+<img src="header/sec-label-tools-dark.svg" alt="Tools">
+</picture>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
@@ -129,7 +165,15 @@
 
 </div>
 
-### Active Quests
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="header/sec-title-active-quests-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="header/sec-title-active-quests-light.svg">
+<img src="header/sec-title-active-quests-dark.svg" alt="Active Quests">
+</picture>
+
+</div>
 
 | Project | What it is | Stack |
 |---|---|---|
