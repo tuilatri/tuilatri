@@ -2,13 +2,13 @@
   "username": "tuilatri",
   "layout": "custom",
   "widgets": [
+    "contacts",
     "banner",
     "hunter",
     "ladder",
     "achievements",
     "activity",
-    "arsenal",
-    "contacts"
+    "arsenal"
   ],
   "theme": "solo_leveling",
   "title": "auto",
@@ -35,15 +35,14 @@
     "Python",
     "TypeScript",
     "JavaScript",
-    "SQL",
-    "HTML5",
-    "CSS",
+    "C++",
     "React",
     "Next.js",
     "Vite",
     "Tailwind CSS",
     "Framer Motion",
     "shadcn/ui",
+    "Radix UI",
     "FastAPI",
     "Express",
     "Node.js",
@@ -55,6 +54,7 @@
     "PyTorch",
     "Hugging Face",
     "Docker",
+    "Vercel",
     "AWS"
   ],
   "career": [

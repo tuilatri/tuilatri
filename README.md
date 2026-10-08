@@ -2,12 +2,91 @@
 
 # Hà Minh Trí
 
-### Connect with the Player
+</div>
 
-<a href="https://haminhtri-website.vercel.app"><img src="https://img.shields.io/badge/Portfolio-haminhtri--website.vercel.app-8B7CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/tri-ha-195374250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:trihaminh2004@gmail.com"><img src="https://img.shields.io/badge/Email-trihaminh2004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/tuilatri"><img src="https://img.shields.io/badge/GitHub-tuilatri-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<!-- AWAKEN:START -->
+<!-- AWAKEN:END -->
+
+### Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A8?style=for-the-badge&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-181717?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-111827?style=for-the-badge&logo=radixui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-6BA539?style=for-the-badge&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-2C8CE0?style=for-the-badge&logo=paddle&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-3A3A3A?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-3B3B3B?style=for-the-badge&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![RQ](https://img.shields.io/badge/RQ-3F3F46?style=for-the-badge&logoColor=white)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ED8B00?style=for-the-badge&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Testing**
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-8DC149?style=for-the-badge&logoColor=black)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-20232A?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-333333?style=for-the-badge&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-261230?style=for-the-badge&logoColor=white)
 
 ### Active Quests
 
@@ -19,39 +98,3 @@
 | [OCR Scanning](https://github.com/tuilatri/OCR_Scanning) · Enterprise | Signs and stamps Vietnamese administrative documents; OCR only locates anchor coordinates. AES-256-GCM, Argon2id, MFA, HMAC-signed API | FastAPI, PaddleOCR, PyMuPDF, React, Vite |
 | [Dining Verse](https://github.com/tuilatri/online-restaurant-system) · [demo](https://online-restaurant-system-hugo.vercel.app/) | Online food ordering with live SSE kitchen display, modifiers, vouchers, flash sales | React, Express, Prisma, PostgreSQL, SSE |
 | [Weather Application](https://github.com/tuilatri/weather-application) · [demo](https://weather-application-hugo.vercel.app/) | Built during the AWS Vietnam cloud trainee programme | JavaScript |
-
-</div>
-
-<!-- AWAKEN:START -->
-<!-- Generated by git-profile-awaken. Edit awaken.json instead of this block. -->
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/banner-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/banner-light.svg"><img src="awaken/banner-dark.svg" width="100%" alt="tuilatri: system banner"></picture>
-</p>
-
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/hunter-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/hunter-light.svg"><img src="awaken/hunter-dark.svg" width="100%" alt="tuilatri: hunter license"></picture>
-</p>
-
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/ladder-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/ladder-light.svg"><img src="awaken/ladder-dark.svg" width="100%" alt="tuilatri: rank ladder"></picture>
-</p>
-
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/achievements-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/achievements-light.svg"><img src="awaken/achievements-dark.svg" width="100%" alt="tuilatri: achievements"></picture>
-</p>
-
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/activity-light.svg"><img src="awaken/activity-dark.svg" width="100%" alt="tuilatri: shadow extraction"></picture>
-</p>
-
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/arsenal-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/arsenal-light.svg"><img src="awaken/arsenal-dark.svg" width="100%" alt="tuilatri: arsenal"></picture>
-</p>
-
-<p align="center">
-<a href="https://haminhtri-website.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/contact-1-website-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/contact-1-website-light.svg"><img src="awaken/contact-1-website-dark.svg" width="24%" alt="Website: Portfolio"></picture></a>
-<a href="https://www.linkedin.com/in/tri-ha-195374250/"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/contact-2-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/contact-2-linkedin-light.svg"><img src="awaken/contact-2-linkedin-dark.svg" width="24%" alt="LinkedIn: LinkedIn"></picture></a>
-<a href="mailto:trihaminh2004@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/contact-3-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/contact-3-email-light.svg"><img src="awaken/contact-3-email-dark.svg" width="24%" alt="Email: Email"></picture></a>
-<a href="https://github.com/tuilatri"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/contact-4-github-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/contact-4-github-light.svg"><img src="awaken/contact-4-github-dark.svg" width="24%" alt="GitHub: GitHub"></picture></a>
-</p>
-<!-- AWAKEN:END -->
