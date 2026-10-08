@@ -17,11 +17,9 @@
   "timezone": "Asia/Ho_Chi_Minh",
   "hours": true,
   "banner": {
-    "style": "system",
+    "style": "glitch",
     "lines": [
-      "Cloud Trainee — First Cloud Journey by AWS Vietnam.",
-      "Computer Science, IU VNUHCM — graduating 2026.",
-      "Building document AI, recommender systems and realtime apps."
+      "Hà Minh Trí"
     ]
   },
   "bio": {
