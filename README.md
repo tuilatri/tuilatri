@@ -18,11 +18,7 @@
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/hunter-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/hunter-light.svg"><img src="awaken/hunter-dark.svg" width="100%" alt="tuilatri: hunter license"></picture>
-</p>
-
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/ladder-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/ladder-light.svg"><img src="awaken/ladder-dark.svg" width="100%" alt="tuilatri: rank ladder"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/status-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/status-light.svg"><img src="awaken/status-dark.svg" width="100%" alt="tuilatri: status window"></picture>
 </p>
 
 <p align="center">
@@ -35,7 +31,7 @@
 </p>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/web-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/web-light.svg"><img src="awaken/web-dark.svg" width="49%" alt="tuilatri: stat web"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/skills-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/skills-light.svg"><img src="awaken/skills-dark.svg" width="49%" alt="tuilatri: passive skills"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/oracle-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/oracle-light.svg"><img src="awaken/oracle-dark.svg" width="49%" alt="tuilatri: oracle scroll"></picture>
 </p>
 
