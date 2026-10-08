@@ -79,7 +79,7 @@
 <use href="#i-sword" x="647.5" y="128" width="20" height="20" fill="#0d1830"/>
 <text x="687.5" y="130" class="strong" fill="#0d1830">Relentless</text>
 <path transform="translate(644.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#1f5fd6"/><path transform="translate(654.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#d5deee"/><path transform="translate(664.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#d5deee"/>
-<text x="687.5" y="149" class="caption" fill="#0d1830">280 / 1,000</text>
+<text x="687.5" y="149" class="caption" fill="#0d1830">281 / 1,000</text>
 <text x="687.5" y="165" class="code" fill="#4a5a7c">COMMITS</text>
 </g>
 <g>
@@ -99,7 +99,7 @@
 <use href="#i-moon" x="242.5" y="204" width="20" height="20" fill="#1f5fd6"/>
 <text x="282.5" y="206" class="strong" fill="#0d1830">Night Owl</text>
 <path transform="translate(239.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#1f5fd6"/><path transform="translate(249.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#1f5fd6"/><path transform="translate(259.5 242)" d="M0 3 3 0 6 3 3 6Z" fill="#d5deee"/>
-<text x="282.5" y="225" class="caption" fill="#0d1830">43 / 45</text>
+<text x="282.5" y="225" class="caption" fill="#0d1830">41 / 45</text>
 <text x="282.5" y="241" class="code" fill="#4a5a7c">% COMMITS 22–05H</text>
 </g>
 <g>
