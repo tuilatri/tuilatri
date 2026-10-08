@@ -10,7 +10,8 @@
     "skills",
     "oracle",
     "achievements",
-    "activity"
+    "activity",
+    "spotlight"
   ],
   "theme": "solo_leveling",
   "title": "auto",
@@ -45,6 +46,9 @@
       "years": "2022–2026",
       "current": true
     }
+  ],
+  "spotlight": [
+    "tuilatri/Amazon_Clone"
   ],
   "quotes": [
     {
