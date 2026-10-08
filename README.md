@@ -1,6 +1,10 @@
 <div align="center">
 
-# Hà Minh Trí
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header/name-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="header/name-light.svg">
+  <img src="header/name-dark.svg" alt="Hà Minh Trí">
+</picture>
 
 </div>
 
