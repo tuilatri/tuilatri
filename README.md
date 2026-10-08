@@ -143,6 +143,7 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="header/sec-title-active-quests-dark.svg"><source media="(prefers-color-scheme: light)" srcset="header/sec-title-active-quests-light.svg"><img src="header/sec-title-active-quests-dark.svg" alt="Active Quests"></picture></p>
 
 | Project | What it is | Stack |
+|---|---|---|
 | [Amazon-Clone](https://github.com/tuilatri/Amazon_Clone) · [demo](https://amazon-clone-2xzu.vercel.app/) | Graduation thesis — multi-vendor marketplace with 12 recommendation models (LightGCN, two-tower, iALS, item2vec, cross-encoder, hybrid RRF ranker), wallet + payments, logistics | React, FastAPI, PostgreSQL, PyTorch, FAISS |
 | [Trello-Clone](https://github.com/tuilatri/Trello_Clone) | Realtime kanban with drag-and-drop, Gantt + critical path, Butler automation, AI agent that proposes and executes actions | React, Express, Prisma, Socket.IO, pgvector, Vercel AI SDK |
 | [Document Intelligence Pipeline](https://github.com/tuilatri/Document-Intelligence-Pipeline) | Invoice intelligence: OCR → LLM extraction → code-side validation, RAG + guarded text-to-SQL, PII encrypted at rest, 600+ tests | FastAPI, pgvector, PaddleOCR, Next.js, QLoRA |
