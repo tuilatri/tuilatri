@@ -2,25 +2,23 @@
 
 # Hà Minh Trí
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B7CFF&center=true&multiline=true&width=520&lines=Building+document+intelligence+and+OCR+pipelines;Document+AI+%2F+OCR+%2F+Data+Processing;Python+%E2%86%92+Production" alt="Building document intelligence and OCR pipelines. Document AI / OCR / Data Processing. Python to Production."></a>
+### Connect with the Player
 
-## Connect with the Player
+<a href="https://haminhtri-website.vercel.app"><img src="https://img.shields.io/badge/Portfolio-haminhtri--website.vercel.app-8B7CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/tri-ha-195374250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:trihaminh2004@gmail.com"><img src="https://img.shields.io/badge/Email-trihaminh2004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/tuilatri"><img src="https://img.shields.io/badge/GitHub-tuilatri-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-<a href="https://github.com/tuilatri"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+### Active Quests
 
-## Arsenal
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-
-## System Status
+| Project | What it is | Stack |
+|---|---|---|
+| [Amazon-Clone](https://github.com/tuilatri/Amazon_Clone) · [demo](https://amazon-clone-2xzu.vercel.app/) | Graduation thesis — multi-vendor marketplace with 12 recommendation models (LightGCN, two-tower, iALS, item2vec, cross-encoder, hybrid RRF ranker), wallet + payments, logistics | React, FastAPI, PostgreSQL, PyTorch, FAISS |
+| [Trello-Clone](https://github.com/tuilatri/Trello_Clone) | Realtime kanban with drag-and-drop, Gantt + critical path, Butler automation, AI agent that proposes and executes actions | React, Express, Prisma, Socket.IO, pgvector, Vercel AI SDK |
+| [Document Intelligence Pipeline](https://github.com/tuilatri/Document-Intelligence-Pipeline) | Invoice intelligence: OCR → LLM extraction → code-side validation, RAG + guarded text-to-SQL, PII encrypted at rest, 600+ tests | FastAPI, pgvector, PaddleOCR, Next.js, QLoRA |
+| [OCR Scanning](https://github.com/tuilatri/OCR_Scanning) · Enterprise | Signs and stamps Vietnamese administrative documents; OCR only locates anchor coordinates. AES-256-GCM, Argon2id, MFA, HMAC-signed API | FastAPI, PaddleOCR, PyMuPDF, React, Vite |
+| [Dining Verse](https://github.com/tuilatri/online-restaurant-system) · [demo](https://online-restaurant-system-hugo.vercel.app/) | Online food ordering with live SSE kitchen display, modifiers, vouchers, flash sales | React, Express, Prisma, PostgreSQL, SSE |
+| [Weather Application](https://github.com/tuilatri/weather-application) · [demo](https://weather-application-hugo.vercel.app/) | Built during the AWS Vietnam cloud trainee programme | JavaScript |
 
 </div>
 

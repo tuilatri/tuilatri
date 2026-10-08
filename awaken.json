@@ -1,22 +1,95 @@
 {
   "username": "tuilatri",
-  "layout": "default",
+  "layout": "custom",
+  "widgets": [
+    "banner",
+    "hunter",
+    "ladder",
+    "achievements",
+    "activity",
+    "arsenal",
+    "contacts"
+  ],
   "theme": "solo_leveling",
+  "title": "auto",
   "activity": "arise",
   "icons": "rune",
   "motion": "full",
   "timezone": "Asia/Ho_Chi_Minh",
   "hours": true,
+  "banner": {
+    "lines": [
+      "Cloud Trainee — First Cloud Journey by AWS Vietnam.",
+      "Computer Science, IU VNUHCM — graduating 2026.",
+      "Building document AI, recommender systems and realtime apps."
+    ]
+  },
+  "bio": {
+    "role": "Full-stack & AI Engineer",
+    "focus": "Document AI · Recommenders · Realtime Apps",
+    "location": "Ho Chi Minh City, Vietnam",
+    "about": "Graduating CS student at IU — VNUHCM. I build production systems: a marketplace with 12 recommendation models, an AI realtime kanban board, and OCR tooling for Vietnamese legal documents."
+  },
   "arsenal": [
     "Python",
-    "Jupyter Notebook",
-    "HTML",
-    "CSS",
+    "TypeScript",
     "JavaScript",
-    "C",
-    "C++",
-    "Cython",
-    "PowerShell",
-    "Git"
-  ]
+    "SQL",
+    "HTML5",
+    "CSS",
+    "React",
+    "Next.js",
+    "Vite",
+    "Tailwind CSS",
+    "Framer Motion",
+    "shadcn/ui",
+    "FastAPI",
+    "Express",
+    "Node.js",
+    "Socket.IO",
+    "PostgreSQL",
+    "Redis",
+    "Prisma",
+    "SQLAlchemy",
+    "PyTorch",
+    "Hugging Face",
+    "Docker",
+    "AWS"
+  ],
+  "career": [
+    {
+      "role": "Cloud Trainee",
+      "org": "First Cloud Journey by AWS Vietnam",
+      "years": "2025"
+    },
+    {
+      "role": "B.Sc. Computer Science",
+      "org": "IU — VNUHCM",
+      "years": "2022–2026",
+      "current": true
+    }
+  ],
+  "socials": [
+    {
+      "type": "website",
+      "url": "https://haminhtri-website.vercel.app",
+      "label": "Portfolio"
+    },
+    {
+      "type": "linkedin",
+      "url": "https://www.linkedin.com/in/tri-ha-195374250/",
+      "label": "LinkedIn"
+    },
+    {
+      "type": "email",
+      "url": "mailto:trihaminh2004@gmail.com",
+      "label": "Email"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/tuilatri",
+      "label": "GitHub"
+    }
+  ],
+  "cv": "https://haminhtri-website.vercel.app/documents/resume.pdf"
 }
