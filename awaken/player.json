@@ -2,7 +2,7 @@
   "login": "tuilatri",
   "level": 8,
   "overall": "B",
-  "overallPercentile": 0.8395016247846201,
+  "overallPercentile": 0.8416340464321719,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 291,
+      "value": 301,
       "rank": "A",
-      "percentile": 0.8738644311817322
+      "percentile": 0.8783302540056461
     },
     {
       "code": "AGI",
-      "value": 55,
+      "value": 58,
       "rank": "S",
-      "percentile": 0.965088732917081
+      "percentile": 0.9675183794235953
     },
     {
       "code": "INT",
@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "berserker",
+      "from": "1",
+      "to": "2",
+      "at": "2026-10-08T22:03:31.989Z"
+    },
+    {
       "kind": "stat",
       "subject": "STR",
       "from": "B",
@@ -68,22 +75,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 55
+      "value": 58
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 54
+      "value": 57
     },
     {
       "id": "yolo",
       "tier": 3,
-      "value": 55
+      "value": 58
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 291
+      "value": 301
     },
     {
       "id": "unbroken",
@@ -92,8 +99,8 @@
     },
     {
       "id": "night-owl",
-      "tier": 2,
-      "value": 31
+      "tier": 1,
+      "value": 24
     },
     {
       "id": "early-bird",
@@ -103,7 +110,7 @@
     {
       "id": "weekend-warrior",
       "tier": 0,
-      "value": 13
+      "value": 12
     },
     {
       "id": "gate-opener",
@@ -152,8 +159,8 @@
     },
     {
       "id": "berserker",
-      "tier": 1,
-      "value": 17
+      "tier": 2,
+      "value": 30
     },
     {
       "id": "diligent",
@@ -173,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "boss-slayer",
@@ -194,6 +201,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-08",
+        "cleared": 1,
+        "total": 3
+      },
+      {
         "date": "2026-10-07",
         "cleared": 2,
         "total": 3
@@ -202,7 +214,7 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 2,
+    "questsDone": 3,
     "bosses": [],
     "escapes": 1,
     "kinds": [
@@ -210,5 +222,5 @@
       "average"
     ]
   },
-  "syncedAt": "2026-10-08T11:23:33.164Z"
+  "syncedAt": "2026-10-08T22:03:31.989Z"
 }
