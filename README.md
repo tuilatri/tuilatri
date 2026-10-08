@@ -42,6 +42,10 @@
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/activity-light.svg"><img src="awaken/activity-dark.svg" width="100%" alt="tuilatri: shadow extraction"></picture>
 </p>
+
+<p align="center">
+<a href="https://github.com/tuilatri/weather-application"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-1-light.svg"><img src="awaken/spotlight-1-dark.svg" width="49%" alt="tuilatri/weather-application"></picture></a>
+</p>
 <!-- AWAKEN:END -->
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="header/sec-title-tech-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="header/sec-title-tech-stack-light.svg"><img src="header/sec-title-tech-stack-dark.svg" alt="Tech Stack"></picture></p>
