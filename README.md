@@ -30,6 +30,16 @@
 </p>
 
 <p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/bio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/bio-light.svg"><img src="awaken/bio-dark.svg" width="49%" alt="tuilatri: character"></picture>
+<a href="https://haminhtri-website.vercel.app/documents/resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/career-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/career-light.svg"><img src="awaken/career-dark.svg" width="49%" alt="tuilatri: career log"></picture></a>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/web-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/web-light.svg"><img src="awaken/web-dark.svg" width="49%" alt="tuilatri: stat web"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/oracle-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/oracle-light.svg"><img src="awaken/oracle-dark.svg" width="49%" alt="tuilatri: oracle scroll"></picture>
+</p>
+
+<p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/achievements-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/achievements-light.svg"><img src="awaken/achievements-dark.svg" width="100%" alt="tuilatri: achievements"></picture>
 </p>
 
