@@ -4,8 +4,8 @@
   "widgets": [
     "contacts",
     "hunter",
-    "banner",
     "ladder",
+    "banner",
     "achievements",
     "activity"
   ],
