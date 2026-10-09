@@ -129,7 +129,7 @@
 <use href="#i-gate" x="40" y="280" width="20" height="20" fill="#1f5fd6"/>
 <text x="80" y="282" class="strong" fill="#0d1830">Gate Opener</text>
 <path transform="translate(37 318)" d="M0 3 3 0 6 3 3 6Z" fill="#1f5fd6"/><path transform="translate(47 318)" d="M0 3 3 0 6 3 3 6Z" fill="#1f5fd6"/><path transform="translate(57 318)" d="M0 3 3 0 6 3 3 6Z" fill="#1f5fd6"/>
-<text x="80" y="301" class="caption" fill="#0d1830">91 · MAX</text>
+<text x="80" y="301" class="caption" fill="#0d1830">92 · MAX</text>
 <text x="80" y="317" class="code" fill="#4a5a7c">REPOS THIS YEAR</text>
 </g>
 <g>
@@ -229,7 +229,7 @@
 <use href="#i-calendar" x="445" y="432" width="20" height="20" fill="#0d1830"/>
 <text x="485" y="434" class="strong" fill="#0d1830">Diligent</text>
 <path transform="translate(442 470)" d="M0 3 3 0 6 3 3 6Z" fill="#1f5fd6"/><path transform="translate(452 470)" d="M0 3 3 0 6 3 3 6Z" fill="#d5deee"/><path transform="translate(462 470)" d="M0 3 3 0 6 3 3 6Z" fill="#d5deee"/>
-<text x="485" y="453" class="caption" fill="#0d1830">57 / 150</text>
+<text x="485" y="453" class="caption" fill="#0d1830">58 / 150</text>
 <text x="485" y="469" class="code" fill="#4a5a7c">ACTIVE DAYS</text>
 </g>
 <g>
@@ -259,7 +259,7 @@
 <use href="#i-lock" x="242.5" y="508" width="20" height="20" fill="#4a5a7c"/>
 <text x="282.5" y="510" class="strong" fill="#4a5a7c">Quest Hunter</text>
 <path transform="translate(239.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#d5deee"/><path transform="translate(249.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#d5deee"/><path transform="translate(259.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#d5deee"/>
-<text x="282.5" y="529" class="caption" fill="#4a5a7c">3 / 50</text>
+<text x="282.5" y="529" class="caption" fill="#4a5a7c">5 / 50</text>
 <text x="282.5" y="545" class="code" fill="#4a5a7c">QUESTS CLEARED</text>
 </g>
 <g>
@@ -289,8 +289,8 @@
 <use href="#i-lock" x="40" y="584" width="20" height="20" fill="#4a5a7c"/>
 <text x="80" y="586" class="strong" fill="#4a5a7c">Collector</text>
 <path transform="translate(37 622)" d="M0 3 3 0 6 3 3 6Z" fill="#d5deee"/><path transform="translate(47 622)" d="M0 3 3 0 6 3 3 6Z" fill="#d5deee"/><path transform="translate(57 622)" d="M0 3 3 0 6 3 3 6Z" fill="#d5deee"/>
-<text x="80" y="605" class="caption" fill="#4a5a7c">2 / 4</text>
+<text x="80" y="605" class="caption" fill="#4a5a7c">3 / 4</text>
 <text x="80" y="621" class="code" fill="#4a5a7c">QUEST KINDS</text>
 </g>
-<text x="820" y="646" class="code" fill="#4a5a7c" text-anchor="end">@tuilatri · SYNCED 2026-10-08</text>
+<text x="820" y="646" class="code" fill="#4a5a7c" text-anchor="end">@tuilatri · SYNCED 2026-10-09</text>
 </svg>

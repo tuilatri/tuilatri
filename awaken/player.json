@@ -115,7 +115,7 @@
     {
       "id": "gate-opener",
       "tier": 3,
-      "value": 91
+      "value": 92
     },
     {
       "id": "raider",
@@ -165,7 +165,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 57
+      "value": 58
     },
     {
       "id": "daily-grinder",
@@ -180,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 3
+      "value": 5
     },
     {
       "id": "boss-slayer",
@@ -195,11 +195,16 @@
     {
       "id": "collector",
       "tier": 0,
-      "value": 2
+      "value": 3
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-09",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-08",
         "cleared": 1,
@@ -214,13 +219,14 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 3,
+    "questsDone": 5,
     "bosses": [],
     "escapes": 1,
     "kinds": [
       "contribute",
-      "average"
+      "average",
+      "streak"
     ]
   },
-  "syncedAt": "2026-10-08T22:03:31.989Z"
+  "syncedAt": "2026-10-09T21:40:08.612Z"
 }
