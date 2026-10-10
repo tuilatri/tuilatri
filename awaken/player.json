@@ -51,6 +51,13 @@
   "events": [
     {
       "kind": "achievement",
+      "subject": "boss-slayer",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-10T20:33:53.631Z"
+    },
+    {
+      "kind": "achievement",
       "subject": "berserker",
       "from": "1",
       "to": "2",
@@ -180,12 +187,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 5
+      "value": 6
     },
     {
       "id": "boss-slayer",
-      "tier": 0,
-      "value": 0
+      "tier": 1,
+      "value": 1
     },
     {
       "id": "escape-artist",
@@ -200,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-10",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-09",
         "cleared": 2,
@@ -219,8 +231,10 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 5,
-    "bosses": [],
+    "questsDone": 6,
+    "bosses": [
+      "2026-10-05"
+    ],
     "escapes": 1,
     "kinds": [
       "contribute",
@@ -228,5 +242,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-09T21:40:08.612Z"
+  "syncedAt": "2026-10-10T20:33:53.631Z"
 }
