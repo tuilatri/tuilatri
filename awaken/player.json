@@ -69,20 +69,6 @@
       "from": "1",
       "to": "2",
       "at": "2026-10-08T22:03:31.989Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "STR",
-      "from": "B",
-      "to": "A",
-      "at": "2026-10-08T09:40:13.602Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "berserker",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-08T09:40:13.602Z"
     }
   ],
   "achievements": [
@@ -194,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 7
+      "value": 8
     },
     {
       "id": "boss-slayer",
@@ -209,11 +195,16 @@
     {
       "id": "collector",
       "tier": 1,
-      "value": 4
+      "value": 5
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-15",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-14",
         "cleared": 1,
@@ -258,7 +249,7 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 7,
+    "questsDone": 8,
     "bosses": [
       "2026-10-05"
     ],
@@ -267,8 +258,9 @@
       "contribute",
       "average",
       "streak",
-      "mp"
+      "mp",
+      "star"
     ]
   },
-  "syncedAt": "2026-10-14T20:41:00.274Z"
+  "syncedAt": "2026-10-15T20:20:07.036Z"
 }
