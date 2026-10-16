@@ -62,13 +62,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-10-10T20:33:53.631Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "berserker",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-08T22:03:31.989Z"
     }
   ],
   "achievements": [
@@ -201,6 +194,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-16",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-15",
         "cleared": 1,
         "total": 3
@@ -262,5 +260,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-10-15T20:20:07.036Z"
+  "syncedAt": "2026-10-16T19:56:43.180Z"
 }
