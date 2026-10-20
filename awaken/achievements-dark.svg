@@ -259,7 +259,7 @@
 <use href="#i-lock" x="242.5" y="508" width="20" height="20" fill="#8a9bc0"/>
 <text x="282.5" y="510" class="strong" fill="#8a9bc0">Quest Hunter</text>
 <path transform="translate(239.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(249.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/><path transform="translate(259.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#1c2c4f"/>
-<text x="282.5" y="529" class="caption" fill="#8a9bc0">10 / 50</text>
+<text x="282.5" y="529" class="caption" fill="#8a9bc0">12 / 50</text>
 <text x="282.5" y="545" class="code" fill="#8a9bc0">QUESTS CLEARED</text>
 </g>
 <g>
@@ -292,5 +292,5 @@
 <text x="80" y="605" class="caption" fill="#e6edf7">5 / 7</text>
 <text x="80" y="621" class="code" fill="#8a9bc0">QUEST KINDS</text>
 </g>
-<text x="820" y="646" class="code" fill="#8a9bc0" text-anchor="end">@tuilatri · SYNCED 2026-10-19</text>
+<text x="820" y="646" class="code" fill="#8a9bc0" text-anchor="end">@tuilatri · SYNCED 2026-10-20</text>
 </svg>
