@@ -48,15 +48,7 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-14T20:41:00.274Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -187,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-22",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-21",
         "cleared": 0,
         "total": 3
@@ -278,5 +275,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-10-21T20:37:13.416Z"
+  "syncedAt": "2026-10-22T20:33:06.957Z"
 }
