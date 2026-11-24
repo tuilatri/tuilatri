@@ -1,8 +1,8 @@
 {
   "login": "tuilatri",
-  "level": 8,
+  "level": 9,
   "overall": "B",
-  "overallPercentile": 0.8589092229741249,
+  "overallPercentile": 0.866935273360676,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 336,
+      "value": 345,
       "rank": "A",
-      "percentile": 0.892105643207809
+      "percentile": 0.8952436304999554
     },
     {
       "code": "AGI",
-      "value": 64,
+      "value": 66,
       "rank": "S",
-      "percentile": 0.9716853778434972
+      "percentile": 0.9729009417484948
     },
     {
       "code": "INT",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 5,
-      "rank": "C",
-      "percentile": 0.728198512785954
+      "value": 6,
+      "rank": "B",
+      "percentile": 0.7983218874983922
     },
     {
       "code": "LUK",
@@ -50,40 +50,40 @@
   ],
   "events": [
     {
-      "kind": "achievement",
-      "subject": "night-owl",
-      "from": "1",
-      "to": "2",
-      "at": "2026-11-17T00:47:17.033Z"
+      "kind": "level",
+      "subject": "Level",
+      "from": "8",
+      "to": "9",
+      "at": "2026-11-24T03:19:32.369Z"
     },
     {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "1",
-      "to": "2",
-      "at": "2026-11-17T00:47:17.033Z"
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "C",
+      "to": "B",
+      "at": "2026-11-24T03:19:32.369Z"
     }
   ],
   "achievements": [
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 64
+      "value": 66
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 63
+      "value": 65
     },
     {
       "id": "yolo",
       "tier": 3,
-      "value": 64
+      "value": 66
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 336
+      "value": 345
     },
     {
       "id": "unbroken",
@@ -93,17 +93,17 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 31
+      "value": 32
     },
     {
       "id": "early-bird",
       "tier": 0,
-      "value": 5
+      "value": 4
     },
     {
       "id": "weekend-warrior",
       "tier": 0,
-      "value": 15
+      "value": 14
     },
     {
       "id": "gate-opener",
@@ -158,12 +158,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 63
+      "value": 65
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "perfect-week",
@@ -173,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 30
+      "value": 33
     },
     {
       "id": "boss-slayer",
@@ -193,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-23",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-22",
         "cleared": 1,
@@ -429,10 +434,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 2,
-    "run": 0,
+    "perfectDays": 3,
+    "run": 1,
     "bestRun": 2,
-    "questsDone": 30,
+    "questsDone": 33,
     "bosses": [
       "2026-11-16",
       "2026-10-05"
@@ -448,5 +453,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-22T22:27:47.930Z"
+  "syncedAt": "2026-11-24T03:19:32.369Z"
 }
