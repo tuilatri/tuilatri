@@ -36,6 +36,6 @@
 
 <path d="M18.4 4.8H835.3V121.5L821.5 135.3H4.8V18.4Z" fill="none" stroke="#3566b8" stroke-width="1.5"/>
 <path class="breathe" d="M825 1H839V15M1 125V139H15" fill="none" stroke="#3d8bff" stroke-width="2" filter="url(#glow)"/>
-<text x="28" y="28" class="label" fill="#3d8bff">[ SYSTEM ]</text><text x="812" y="28" class="code" fill="#8a9bc0" text-anchor="end">LV. 9 · RANK B</text>
+<text x="28" y="28" class="label" fill="#3d8bff">[ SYSTEM ]</text><text x="812" y="28" class="code" fill="#8a9bc0" text-anchor="end">LV. 9 · RANK A</text>
 <path d="M28 47l6 5-6 5v-2.4l3.2-2.6-3.2-2.6Z" fill="#3d8bff"/><text x="44" y="56" class="value" fill="#e6edf7">Cloud Trainee — First Cloud Journey by AWS Vietnam.</text><path d="M28 71l6 5-6 5v-2.4l3.2-2.6-3.2-2.6Z" fill="#3d8bff"/><text x="44" y="80" class="value" fill="#8a9bc0">Computer Science, IU VNUHCM — graduating 2026.</text><path d="M28 95l6 5-6 5v-2.4l3.2-2.6-3.2-2.6Z" fill="#3d8bff"/><text x="44" y="104" class="value" fill="#8a9bc0">Building document AI, recommender systems and realtime apps.</text>
 </svg>
