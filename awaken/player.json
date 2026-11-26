@@ -2,7 +2,7 @@
   "login": "tuilatri",
   "level": 9,
   "overall": "A",
-  "overallPercentile": 0.8726094509006711,
+  "overallPercentile": 0.8800507954217032,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 377,
+      "value": 411,
       "rank": "A",
-      "percentile": 0.9052948843327813
+      "percentile": 0.9143853102951471
     },
     {
       "code": "AGI",
-      "value": 70,
-      "rank": "S",
-      "percentile": 0.9751137988748277
+      "value": 84,
+      "rank": "SS",
+      "percentile": 0.9810914329281482
     },
     {
       "code": "INT",
@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "stat",
+      "subject": "AGI",
+      "from": "S",
+      "to": "SS",
+      "at": "2026-11-26T00:58:57.221Z"
+    },
+    {
       "kind": "overall",
       "subject": "Overall rank",
       "from": "B",
@@ -75,22 +82,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 70
+      "value": 84
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 69
+      "value": 83
     },
     {
       "id": "yolo",
       "tier": 3,
-      "value": 70
+      "value": 84
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 377
+      "value": 411
     },
     {
       "id": "unbroken",
@@ -110,7 +117,7 @@
     {
       "id": "weekend-warrior",
       "tier": 0,
-      "value": 12
+      "value": 10
     },
     {
       "id": "gate-opener",
@@ -160,27 +167,27 @@
     {
       "id": "berserker",
       "tier": 2,
-      "value": 34
+      "value": 42
     },
     {
       "id": "diligent",
       "tier": 1,
-      "value": 65
+      "value": 67
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 4
+      "value": 5
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 36
+      "value": 39
     },
     {
       "id": "boss-slayer",
@@ -200,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-25",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-24",
         "cleared": 3,
@@ -446,10 +458,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 4,
-    "run": 2,
-    "bestRun": 2,
-    "questsDone": 36,
+    "perfectDays": 5,
+    "run": 3,
+    "bestRun": 3,
+    "questsDone": 39,
     "bosses": [
       "2026-11-16",
       "2026-10-05"
@@ -466,5 +478,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-11-25T01:25:06.625Z"
+  "syncedAt": "2026-11-26T00:58:57.221Z"
 }
