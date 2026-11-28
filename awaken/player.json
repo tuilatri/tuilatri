@@ -2,7 +2,7 @@
   "login": "tuilatri",
   "level": 10,
   "overall": "A",
-  "overallPercentile": 0.8820653769464107,
+  "overallPercentile": 0.8821760767966127,
   "layout": "custom",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 452,
+      "value": 454,
       "rank": "A",
-      "percentile": 0.9236285731149109
+      "percentile": 0.9240386848075819
     },
     {
       "code": "AGI",
-      "value": 99,
+      "value": 100,
       "rank": "SS",
-      "percentile": 0.9854435884738795
+      "percentile": 0.9856808771952972
     },
     {
       "code": "INT",
@@ -89,22 +89,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 99
+      "value": 100
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 97
+      "value": 98
     },
     {
       "id": "yolo",
       "tier": 3,
-      "value": 99
+      "value": 100
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 452
+      "value": 454
     },
     {
       "id": "unbroken",
@@ -114,7 +114,7 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 35
+      "value": 36
     },
     {
       "id": "early-bird",
@@ -184,7 +184,7 @@
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 5
+      "value": 6
     },
     {
       "id": "perfect-week",
@@ -194,7 +194,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 41
+      "value": 44
     },
     {
       "id": "boss-slayer",
@@ -214,6 +214,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-27",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-26",
         "cleared": 2,
@@ -470,10 +475,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 5,
-    "run": 0,
+    "perfectDays": 6,
+    "run": 1,
     "bestRun": 3,
-    "questsDone": 41,
+    "questsDone": 44,
     "bosses": [
       "2026-11-23",
       "2026-11-16",
@@ -491,5 +496,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-11-27T01:00:06.101Z"
+  "syncedAt": "2026-11-28T00:32:06.200Z"
 }
